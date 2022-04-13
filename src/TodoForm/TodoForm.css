@@ -1,0 +1,36 @@
+.Conteiner-Form {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    background-color:#E6E6FA	;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.Label-edit {
+   color: #663399; 
+   border-radius: 5px;
+}
+.text-conteiner {
+    background-color: #E6E6FA;
+    border: 3px solid #663399	;
+    border-radius: 5px;
+}
+.div-conteiner {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-top: 10px;
+}
+.button-edit {
+    background-color: #E6E6FA;
+    border: 4px solid #663399;
+    color: #663399;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}

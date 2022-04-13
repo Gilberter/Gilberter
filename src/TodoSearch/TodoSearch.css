@@ -1,0 +1,17 @@
+.TodoSearch {
+    background-color: #1B3651	;
+    color: black;
+    border: 1px solid black;
+    width: 200px;
+    height: 25px;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    
+
+}
+
+::placeholder {
+    color: whitesmoke;
+    opacity: 0.4;
+}

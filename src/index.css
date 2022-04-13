@@ -1,0 +1,29 @@
+body {
+  
+font-family: 'Ubuntu', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(40deg, #e7e9de 0, #e2e7dc 12.5%, #d7e0d3 25%, #c6d4c4 37.5%, #adc4b1 50%, #93b4a0 62.5%, #7fa996 75%, #71a292 87.5%, #69a094 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#root {
+  
+  /* position: relative; */
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  position:relative;
+  
+}
